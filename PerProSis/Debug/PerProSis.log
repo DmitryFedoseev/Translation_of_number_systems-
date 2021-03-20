@@ -1,0 +1,4 @@
+﻿  PerProSis.cpp
+C:\Users\User\Desktop\University\2_semestry\Programming\PerProSis\PerProSis\PerProSis.cpp(43,54): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Desktop\University\2_semestry\Programming\PerProSis\PerProSis\PerProSis.cpp(61,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  PerProSis.vcxproj -> C:\Users\User\Desktop\University\2_semestry\Programming\PerProSis\Debug\PerProSis.exe
